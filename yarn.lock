@@ -5976,10 +5976,10 @@ swagger-methods@^1.0.4:
   resolved "https://registry.yarnpkg.com/swagger-methods/-/swagger-methods-1.0.8.tgz#8baf37ee861d3c72ff7b2faad6d74c60b336e2ed"
   integrity sha512-G6baCwuHA+C5jf4FNOrosE4XlmGsdjbOjdBK4yuiDDj/ro9uR4Srj3OR84oQMT8F3qKp00tYNv0YN730oTHPZA==
 
-swagger-mock-validator@10.1.0:
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/swagger-mock-validator/-/swagger-mock-validator-10.1.0.tgz#c7d321c378ebd44a29838c365f54a6e66d9d9bee"
-  integrity sha512-V+7UyndbKXiWEFu5m6eTWZEMMUIeEzBaBUnb6R2feOJIPpTvmq2DxsEnejA+X+qSNiqmj3zq3xRX3QP1gwLn5Q==
+swagger-mock-validator@10.1.1:
+  version "10.1.1"
+  resolved "https://registry.yarnpkg.com/swagger-mock-validator/-/swagger-mock-validator-10.1.1.tgz#b46863f8a8d44575dd6e3b6593ae365f4a779ebc"
+  integrity sha512-tihUVqAh6UslcVU1BKalvzb8Ebxt1vhCdv/dqv4IQ8zx+r+JjEE/EFhSBjaV3rp/PMyEeeiXAANYnwq4l9f1Lg==
   dependencies:
     ajv "^6.12.6"
     commander "^7.0.0"
