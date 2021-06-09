@@ -4,7 +4,7 @@
   "description": "",
   "devDependencies": {
     "@pact-foundation/pact": "9.15.5",
-    "@types/aws4": "1.5.1",
+    "@types/aws4": "1.5.2",
     "@types/chai": "4.2.17",
     "@types/dotenv": "6.1.1",
     "@types/jest": "26.0.23",
